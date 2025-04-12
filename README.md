@@ -8,7 +8,7 @@
 clone the repository
 
 '''bash
-https://github.com/kjayshree017/Kidney-Disease-classification-mlflow 
+https://github.com/kjayshree017/Kidney-Disease-classification-mlflow
 '''
 
 

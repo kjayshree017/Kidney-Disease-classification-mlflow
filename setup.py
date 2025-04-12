@@ -7,7 +7,7 @@ __version__ ="0.0.0"
 
 
 REPO_NAME="Kidney-Disease-classification-mlflow"
-AUTHOR_USER_NAME="kjayshree017"
+AUTHOR_USER_NAME="kkjayshree017"
 SRC_REPO = "cnnClassifier"
 AUTHOR_EMAIL ="kjayshree017@gmail.com"
 
